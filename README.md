@@ -1,2 +1,2 @@
 # Kutubxona
-Kitob javoni
+Kitob qo'shib, ijaraga oluvchi dastur
